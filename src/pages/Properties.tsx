@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { ChevronDown, ChevronRight, Plus, Trash2, Pencil, X, Check } from 'lucide-react'
+import { ChevronDown, ChevronRight, Plus, Trash2, X, Check } from 'lucide-react'
 import { supabase } from '../lib/supabase'
 import { useAuth } from '../hooks/useAuth'
 
